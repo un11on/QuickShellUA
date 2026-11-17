@@ -1,0 +1,30 @@
+singleton Theme 1.0 Theme.qml
+singleton Config 1.0 Config.qml
+singleton PanelController 1.0 PanelController.qml
+singleton WallpaperService 1.0 WallpaperService.qml
+GradientBg 1.0 GradientBg.qml
+TopBar 1.0 TopBar.qml
+AiSidebar 1.0 AiSidebar.qml
+BluetoothMenu 1.0 BluetoothMenu.qml
+Card 1.0 Card.qml
+ControlCenter 1.0 ControlCenter.qml
+DashboardMenu 1.0 DashboardMenu.qml
+NotificationPopup 1.0 NotificationPopup.qml
+NotificationHistory 1.0 NotificationHistory.qml
+IconBtn 1.0 IconBtn.qml
+Island 1.0 Island.qml
+MusicIsland 1.0 MusicIsland.qml
+CavaBars 1.0 CavaBars.qml
+SettingsSidebar 1.0 SettingsSidebar.qml
+StatRow 1.0 StatRow.qml
+CalendarPage 1.0 CalendarPage.qml
+MonitorPage 1.0 MonitorPage.qml
+SystemMenu 1.0 SystemMenu.qml
+ToggleTile 1.0 ToggleTile.qml
+Workspaces 1.0 Workspaces.qml
+MonitorManager 1.0 MonitorManager.qml
+NotificationTrayCapsule 1.0 NotificationTrayCapsule.qml
+MediaPlayerPanel 1.0 MediaPlayerPanel.qml
+WifiMenu 1.0 WifiMenu.qml
+WallpaperCard 1.0 WallpaperCard.qml
+WallpaperPicker 1.0 WallpaperPicker.qml

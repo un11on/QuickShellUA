@@ -1,0 +1,22 @@
+module Widgets
+singleton WidgetRegistry 1.0 WidgetRegistry.qml
+singleton WidgetStorage 1.0 WidgetStorage.qml
+singleton WidgetManager 1.0 WidgetManager.qml
+singleton SystemMetricsService 1.0 services/SystemMetricsService.qml
+singleton WeatherService 1.0 services/WeatherService.qml
+singleton NetworkService 1.0 services/NetworkService.qml
+singleton BatteryService 1.0 services/BatteryService.qml
+singleton StorageService 1.0 services/StorageService.qml
+WidgetEngine 1.0 WidgetEngine.qml
+WidgetRenderer 1.0 WidgetRenderer.qml
+WidgetInstance 1.0 WidgetInstance.qml
+WidgetEditor 1.0 WidgetEditor.qml
+WidgetSettingEditor 1.0 WidgetSettingEditor.qml
+WidgetButton 1.0 WidgetButton.qml
+WidgetComboBox 1.0 WidgetComboBox.qml
+WidgetSwitch 1.0 WidgetSwitch.qml
+WidgetTextField 1.0 WidgetTextField.qml
+ClockWidget 1.0 widgets/ClockWidget.qml
+CalendarWidget 1.0 widgets/CalendarWidget.qml
+WeatherWidget 1.0 widgets/WeatherWidget.qml
+SystemMonitorWidget 1.0 widgets/SystemMonitorWidget.qml
